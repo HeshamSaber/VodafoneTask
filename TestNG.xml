@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Vodafone Suite">
+  <test name="VodafoneTest">
+    <classes>
+      <class name="tests.UserRegistrationTest"/>
+      <class name="tests.UserLoginTest"/>
+      <class name="tests.OpenBlouseCategoryTest"/>
+      <class name="tests.CheckOutTest"/>
+      <class name="tests.CheckOrderInAccountTest"/>
+    </classes>
+  </test>
+</suite>
